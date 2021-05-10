@@ -1,0 +1,16 @@
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\Gabriel_Dialer.exe
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\Gabriel_Dialer.deps.json
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\Gabriel_Dialer.runtimeconfig.json
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\Gabriel_Dialer.runtimeconfig.dev.json
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\Gabriel_Dialer.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\ref\Gabriel_Dialer.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\bin\Debug\net5.0\Gabriel_Dialer.pdb
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.csprojAssemblyReference.cache
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.AssemblyInfoInputs.cache
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.AssemblyInfo.cs
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.csproj.CoreCompileInputs.cache
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\ref\Gabriel_Dialer.dll
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.pdb
+C:\Users\Keri Gabriel\source\repos\Gabriel_Dialer\obj\Debug\net5.0\Gabriel_Dialer.genruntimeconfig.cache
