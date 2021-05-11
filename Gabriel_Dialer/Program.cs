@@ -24,8 +24,7 @@ namespace Gabriel_Dialer
             for (int i = 0; i <MAX_SIZE; i++)
             {
                 Console.WriteLine(dialingList[i].dial());
-            }  
-            Console.ReadLine();           
+            }                    
         }
     }
 }
